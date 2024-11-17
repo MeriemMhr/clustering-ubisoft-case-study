@@ -1,0 +1,31 @@
+VISIT_START_DATETIME,VISIT_ID,VISITOR_ID,USER_KEY,SITE,SUBSECTION,URL,COUNTRY_ID,BROWSER,ACTION,TIME_SPENT,NUM_CLICKS,ORDERS,REVENUE
+2022-04-08 05:22:42,9833862815,93465990,60796428,GAME,ASSASSINS_CREED_VALHALLA,https://www.ubisoft.com/totallynotfake/game/assassins_creed_valhalla,AUS,FIREFOX,search,61651,2,0,0.0
+2022-10-03 19:02:07,1258359477,59835344,,GAME,ASSASSINS_CREED_VALHALLA,https://www.ubisoft.com/totallynotfake/game/assassins_creed_valhalla,FRA,FIREFOX,search,75932,3,0,0.0
+2023-05-20 04:38:11,9777293169,10533391,49573062,STORE,SHOPPING_CART,https://www.ubisoft.com/totallynotfake/store/shopping_cart,ITA,IOS,sign out,110824,1,0,0.0
+2022-04-06 03:59:10,3961757173,38717835,,STORE,CATALOG,https://www.ubisoft.com/totallynotfake/store/catalog,BRA,SAFARI,search,59423,3,0,0.0
+2022-08-25 02:20:38,3292545892,97041698,,GAME,RAINBOW_SIX_SIEGE,https://www.ubisoft.com/totallynotfake/game/rainbow_six_siege,GBR,FIREFOX,sign out,104203,2,0,0.0
+2022-02-15 04:36:12,6064323874,47699796,64556349,STORE,CATALOG,https://www.ubisoft.com/totallynotfake/store/catalog,GBR,IOS,display,92348,0,0,0.0
+2023-07-02 15:33:42,7440299302,55288566,58872106,GAME,FAR_CRY_6,https://www.ubisoft.com/totallynotfake/game/far_cry_6,ITA,FIREFOX,interaction,58097,3,0,0.0
+2023-12-02 15:25:22,7259568130,38748597,,GAME,FAR_CRY_6,https://www.ubisoft.com/totallynotfake/game/far_cry_6,AUS,IOS,sign out,72894,3,0,0.0
+2022-07-21 20:26:17,5385696889,66687194,51616856,GAME,RAINBOW_SIX_SIEGE,https://www.ubisoft.com/totallynotfake/game/rainbow_six_siege,FRA,SAFARI,display,125080,0,0,0.0
+2023-01-17 06:07:00,5095233223,54815152,73787038,GAME,FAR_CRY_6,https://www.ubisoft.com/totallynotfake/game/far_cry_6,GBR,SAFARI,sign out,57839,3,0,0.0
+2022-10-25 09:07:30,5392209333,23528707,,STORE,SHOPPING_CART,https://www.ubisoft.com/totallynotfake/store/shopping_cart,GBR,OPERA,display,104415,1,0,0.0
+2023-03-04 02:12:13,3495871525,34049423,14395222,STORE,SHOPPING_CART,https://www.ubisoft.com/totallynotfake/store/shopping_cart,BRA,IOS,sign out,18417,3,0,0.0
+2023-04-04 15:20:04,8579561315,56368728,,STORE,CATALOG,https://www.ubisoft.com/totallynotfake/store/catalog,USA,CHROME,search,103708,2,0,0.0
+2023-04-10 18:17:40,2910277794,24829760,,STORE,SHOPPING_CART,https://www.ubisoft.com/totallynotfake/store/shopping_cart,USA,IOS,scroll down,27034,2,0,0.0
+2023-07-25 21:14:50,4271356731,32629131,54995903,GAME,FAR_CRY_6,https://www.ubisoft.com/totallynotfake/game/far_cry_6,BRA,SAFARI,scroll down,5908,2,0,0.0
+2023-08-22 12:31:21,5279153717,90489314,22641353,GAME,FAR_CRY_6,https://www.ubisoft.com/totallynotfake/game/far_cry_6,AUS,CHROME,sign out,23231,0,0,0.0
+2022-09-08 02:13:41,4081495553,65750384,,STORE,SHOPPING_CART,https://www.ubisoft.com/totallynotfake/store/shopping_cart,AUS,OPERA,display,68588,3,0,0.0
+2022-03-21 08:42:46,1302477241,53965095,14463800,STORE,SHOPPING_CART,https://www.ubisoft.com/totallynotfake/store/shopping_cart,FRA,IOS,interaction,84345,2,0,0.0
+2023-09-28 16:08:12,3340865478,87075989,22166854,GAME,ASSASSINS_CREED_VALHALLA,https://www.ubisoft.com/totallynotfake/game/assassins_creed_valhalla,BRA,ANDROID,interaction,120897,1,0,0.0
+2023-01-04 01:19:13,5795765729,91302430,,STORE,SHOPPING_CART,https://www.ubisoft.com/totallynotfake/store/shopping_cart,USA,IOS,scroll down,119975,1,0,0.0
+2022-08-22 08:19:59,7003343334,87697962,,STORE,CATALOG,https://www.ubisoft.com/totallynotfake/store/catalog,FRA,CHROME,search,110966,3,0,0.0
+2022-10-11 18:14:50,9046494800,86408130,42750226,GAME,RAINBOW_SIX_SIEGE,https://www.ubisoft.com/totallynotfake/game/rainbow_six_siege,ITA,ANDROID,sign out,12757,2,0,0.0
+2022-01-15 05:45:20,9153670552,95915567,,STORE,CATALOG,https://www.ubisoft.com/totallynotfake/store/catalog,AUS,ANDROID,search,109212,0,0,0.0
+2022-02-27 16:47:56,8865102802,34295728,14473754,STORE,CATALOG,https://www.ubisoft.com/totallynotfake/store/catalog,BRA,OPERA,sign out,24006,3,0,0.0
+2023-04-24 00:52:40,5097001092,13973214,,STORE,CATALOG,https://www.ubisoft.com/totallynotfake/store/catalog,ITA,SAFARI,display,183,1,0,0.0
+2022-09-10 17:31:00,9689390409,41628694,55873858,GAME,RAINBOW_SIX_SIEGE,https://www.ubisoft.com/totallynotfake/game/rainbow_six_siege,GBR,ANDROID,search,137840,3,0,0.0
+2023-04-07 00:14:42,3457273160,76821418,,GAME,RAINBOW_SIX_SIEGE,https://www.ubisoft.com/totallynotfake/game/rainbow_six_siege,GBR,CHROME,search,51360,3,0,0.0
+2022-12-02 17:00:03,4442506056,66960654,55379161,GAME,ASSASSINS_CREED_VALHALLA,https://www.ubisoft.com/totallynotfake/game/assassins_creed_valhalla,USA,SAFARI,sign out,75530,3,0,0.0
+2022-07-03 04:15:21,2091972181,49762023,,GAME,FAR_CRY_6,https://www.ubisoft.com/totallynotfake/game/far_cry_6,GBR,SAFARI,scroll down,88979,3,0,0.0
+2023-04-03 00:27:37,8140494935,41119736,,STORE,SHOPPING_CART,https://www.ubisoft.com/totallynotfake/store/shopping_cart,FRA,FIREFOX,scroll down,81184,3,0,0.0
